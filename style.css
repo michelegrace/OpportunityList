@@ -1,0 +1,50 @@
+body {
+  background: #F7CE5B;
+  border: 25px solid #65A96B;
+  margin: 0;
+  padding: 50px;
+  -webkit-font-smoothing: antialiased;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Shrikhand', cursive;
+}
+
+h1 {
+  color: #BA5624;
+  font-size: 3.2em;
+  letter-spacing: 0.03em;
+}
+
+p {
+  color: #381D2A;
+}
+
+hr {
+  margin-bottom: 20px;
+  margin-top: 32px;
+  box-shadow: 0;
+}
+
+
+button {
+  background: #4D7EA8;
+  color: #fff;
+  font-size: 1.12em;
+  border: 0;
+  text-transform: uppercase;
+  padding: 12px 2px;
+  width: 100%;
+  max-width: 320px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+input[type=text]{
+    padding: 12px 2px;
+    font-size: 17px;
+    width: 100%;
+    max-width: 320px;
+    margin-right: 12px;
+}
