@@ -1,14 +1,5 @@
 /*jslint node: true */
 "use strict";
-/* Steps it needs to accomplish
-
-1. Be able to add new items to the list using input field xx
-2. save that new value to an array  xx
-    2a. run through the input field for each new added element to add to the visit list
-3. Success Message xx
-    3a. error message
-2. Randomly select from array something to do
-3. Show all the things added, so they can be marked off. */
 
 
 var toDo = [];
